@@ -2,7 +2,7 @@ using Zenject;
 
 namespace Source.Modules.SignalsModule.Scripts
 {
-    public class SignalInstallers : MonoInstaller
+    public class SignalInstaller : MonoInstaller
     {
         public override void InstallBindings()
         {
