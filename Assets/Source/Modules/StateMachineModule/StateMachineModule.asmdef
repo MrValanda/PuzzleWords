@@ -1,0 +1,19 @@
+{
+    "name": "StateMAchineModule",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:0be354a7de6d4f440b79d1011c21b5aa",
+        "GUID:8acdae50bbe33284a94c46968658f0ad",
+        "GUID:9cd696d05c2fcd74ca456ed28476a58e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
